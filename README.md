@@ -1,6 +1,10 @@
 # ENTROPY TEAM
 
+```bash
+
 FRONT WEB DEV
+
+```
 
 ## MEMBER
 
