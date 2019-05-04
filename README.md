@@ -1,17 +1,35 @@
-EntropyTeam
-Authors
-Maxime LESPAGNOL 
-Alexandre Beugin
+# ENTROPY TEAM
+
+FRONT WEB DEV
+
+## MEMBER
 
 
+```bash
 
-Built With
-PHP  - 
-HTML -
-SASS - powerfull css
+MAXIME LESPAGNOl
+ALEXANDRE BEUGIN
+
+```
+
+## RESSOURCE HERE made by entropy team
+
+```
+
+BUTTON
+COLOR
+FONT
+and more...
 
 
+```
 
-Acknowledgments
-AFPA
-Special thanks to Jonas very very good teacher from udemy
+## Acknowledgments
+
+```bash
+
+-AFPA 
+-Special thanks to Jonas very very good teacher from udemy
+
+```
+
