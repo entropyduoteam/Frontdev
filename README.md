@@ -16,7 +16,7 @@ ALEXANDRE BEUGIN
 
 ```
 
-## RESSOURCE HERE made by entropy team
+## RESSOURCE HERE MADE BY ENTROPY TEAM
 
 ```
 
