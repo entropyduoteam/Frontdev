@@ -20,17 +20,11 @@ body {
 }
 
 header {
-  height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(img/2.jpg);
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
 }
 
 .text-box {
   position: absolute;
-  top: 40%;
+  top:4%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
