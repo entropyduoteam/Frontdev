@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
 * {
   margin: 0;
   padding: 0;
@@ -6,6 +8,13 @@
 
 body {
   height: 100vh;
+  background-color: #ecf0f1
+}
+
+h1,
+p{
+
+  text-align: center;
 }
 .container {
   display: flex;
@@ -68,4 +77,22 @@ body {
 .brique:hover {
   background-color: #ff5722;
   transition: all 0.3s ease-in-out;
+}
+
+
+span{
+color:#16a085;
+  
+}
+.copyright {
+  position: absolute;
+  bottom: 100px;
+  left:45%;
+}
+.copyright a {
+  text-decoration: none;
+  color: #16a085;
+}
+.copyright a:hover {
+  text-decoration: underline;
 }
