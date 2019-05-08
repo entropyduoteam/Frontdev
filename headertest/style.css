@@ -32,10 +32,11 @@ h1 {
   margin-bottom: 30px;
 }
 
-h3,
-p {
+h3 {
   font-family: "Open Sans", sans-serif;
   margin-bottom: 30px;
+  letter-spacing: 12.4px;
+  font-size: 16px;
 }
 
 button {
