@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Shrikhand&display=swap');
+
+body{
+	line-height: 1.7;
+	background-image: linear-gradient(to right bottom, #1f1f1f, #252525, #2b2b2b, #313131, #373737);
+	min-height: 100vh;
+}
+
+.style{
+	height: 400px;
+	width: 100%;
+}
+
+.headleft{
+margin-top: 80px;
+height: 80px;
+width: 100%;
+display: flex;
+flex-direction: row;
+align-content: center;
+
+
+}
+.yellowbar{
+
+	height: 28px;
+	width: 400px;
+	border-radius: 10px;
+	background-color: #f9de9a;
+}
+
+.redbar{
+	height: 28px;
+	width: 400px;
+	border-radius: 10px;
+	background-color: #f8aba0;
+}
+
+
+.bluebar{
+
+	height: 28px;
+	width: 400px;
+	border-radius: 10px;
+	background-color: #61b8ef;
+
+}
+.edit-text{
+	text-align: center;
+	font-size :162px;
+	font-family: 'Shrikhand', cursive;
+}
+.rainbow-text {
+background: linear-gradient(124deg, #ff470f, #ff3860, #b86bff, #3273dc);
+background-size: 800% 800%;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: rainbow 8s ease infinite;
+
+}
+
+@keyframes rainbow { 
+    0%{background-position:1% 80%}
+    50%{background-position:99% 20%}
+    100%{background-position:1% 80%}
+}
